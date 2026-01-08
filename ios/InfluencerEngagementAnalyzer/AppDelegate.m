@@ -1,0 +1,1 @@
+#import "AppDelegate.h"@implementation AppDelegate- (BOOL)application:(UIApplication*)a d:(NSDictionary*)o{return YES;}@end
