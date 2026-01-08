@@ -1,0 +1,1 @@
+#import "IGAGraphQLClient.h"@implementation IGAGraphQLClient- (void)executeQuery:(NSString*)q completion:(void(^)(id))c{ if(c){c(nil);} }@end
