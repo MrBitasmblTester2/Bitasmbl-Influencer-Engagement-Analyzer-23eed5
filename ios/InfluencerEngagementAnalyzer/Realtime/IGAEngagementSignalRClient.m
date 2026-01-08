@@ -1,0 +1,1 @@
+#import "IGAEngagementSignalRClient.h"@implementation IGAEngagementSignalRClient- (void)connect{ }- (void)subscribe{ }@end
