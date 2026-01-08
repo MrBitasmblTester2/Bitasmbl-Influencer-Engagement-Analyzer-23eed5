@@ -1,0 +1,1 @@
+extend type Influencer{ engagementScore:Float } extend type Query{ engagementSummary(id:ID!):Influencer }
