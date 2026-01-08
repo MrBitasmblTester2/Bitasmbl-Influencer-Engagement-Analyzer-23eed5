@@ -1,0 +1,1 @@
+module.exports=({req})=>({user:null,dataSources:{}});
