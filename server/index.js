@@ -1,0 +1,1 @@
+const {createServer}=require('http');const http=createServer((req,res)=>{res.end('GraphQL');});http.listen(4000);
