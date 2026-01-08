@@ -1,0 +1,1 @@
+using Microsoft.AspNetCore.Builder;public class Startup{public void Configure(IApplicationBuilder app){app.UseRouting();app.UseEndpoints(e=>{e.MapHub<EngagementHub>("/engagementHub");});}}
