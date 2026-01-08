@@ -1,0 +1,1 @@
+using Microsoft.AspNetCore.SignalR;public class EngagementHub:Hub{public async Task SendUpdate(string id){await Clients.All.SendAsync("engagementUpdate",id);} }
