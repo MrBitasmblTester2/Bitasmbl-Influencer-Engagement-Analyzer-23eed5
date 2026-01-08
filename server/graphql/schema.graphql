@@ -1,0 +1,1 @@
+type Influencer{ id:ID! handle:String! } type Query{ influencers:[Influencer!]! } schema{ query:Query }
