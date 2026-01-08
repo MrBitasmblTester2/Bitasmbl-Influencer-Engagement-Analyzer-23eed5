@@ -1,0 +1,1 @@
+#import "IGAInfluencerViewModel.h"@implementation IGAInfluencerViewModel- (void)load{ }@end
