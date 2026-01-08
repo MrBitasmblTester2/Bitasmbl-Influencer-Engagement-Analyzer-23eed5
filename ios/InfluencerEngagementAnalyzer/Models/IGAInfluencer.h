@@ -1,0 +1,1 @@
+#import <Foundation/Foundation.h>@interface IGAInfluencer:NSObject@property(nonatomic,strong)NSString*identifier;@end
